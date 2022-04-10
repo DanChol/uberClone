@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">UberRemake</string>
+    <string name="continue_text">Продолжить</string>
+    <string name="egistr_text">Создание аккаунта</string>
+    <string name="first_name">Имя</string>
+    <string name="last_name">Фамилия</string>
+    <string name="phone_number">Номер телефона</string>
+
 </resources>

@@ -1,7 +1,7 @@
 package kg.unicapp.uberremake
 
 
-object Comm {
+object Common {
 val DRIVER_INFO_REFERENCE: String = "DriverInfo"
 
 
