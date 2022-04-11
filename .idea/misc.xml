@@ -4,9 +4,15 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/User/AndroidStudioProjects/UberRemake/app/src/main/res/drawable/ic_baseline_local_phone_24.xml" value="0.2165" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/UberRemake/app/src/main/res/layout/activity_driver_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/UberRemake/app/src/main/res/layout/activity_maps.xml" value="0.11302083333333333" />
         <entry key="..\:/Users/User/AndroidStudioProjects/UberRemake/app/src/main/res/layout/activity_sign.xml" value="0.2" />
         <entry key="..\:/Users/User/AndroidStudioProjects/UberRemake/app/src/main/res/layout/activity_splash_screen.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/UberRemake/app/src/main/res/layout/content_driver_home.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/UberRemake/app/src/main/res/layout/fragment_home.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/UberRemake/app/src/main/res/layout/nav_header_driver_home.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/User/AndroidStudioProjects/UberRemake/app/src/main/res/layout/registr_layout.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/UberRemake/app/src/main/res/menu/activity_main_drawer.xml" value="0.11302083333333333" />
       </map>
     </option>
   </component>

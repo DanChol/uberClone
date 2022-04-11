@@ -1,8 +1,11 @@
 package kg.unicapp.uberremake
 
+import kg.unicapp.uberremake.model.DriverInfoModel
+
 
 object Common {
-val DRIVER_INFO_REFERENCE: String = "DriverInfo"
+    var currentUser: DriverInfoModel? = null
+    val DRIVER_INFO_REFERENCE: String = "DriverInfo"
 
 
 }

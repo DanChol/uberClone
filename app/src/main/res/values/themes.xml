@@ -13,10 +13,12 @@
         <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
     </style>
+
     <style name="SplashTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
         <item name="android:windowFullscreen">true</item>
         <item name="android:windowBackground">@drawable/splash_screen</item>
     </style>
+
     <style name="LoginTheme" parent="FirebaseUI">
 
         <item name="colorPrimary">@android:color/white</item>
@@ -49,5 +51,14 @@
         <item name="android:windowIsFloating">false</item>
 
     </style>
-        
+
+    <style name="Theme.UberRemake.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.UberRemake.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.UberRemake.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
 </resources>
